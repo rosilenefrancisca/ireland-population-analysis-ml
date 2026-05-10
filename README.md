@@ -58,5 +58,12 @@ Files:
 - `irelandpopulation.csv` → Original dataset
 - `newdata_df_dataset.csv` → Processed dataset
 
+## Future Improvements
+- Hyperparameter optimisation
+- Cross-validation techniques
+- Additional demographic variables
+- Advanced machine learning models
+- Feature importance analysis
+
 ## Author
 Rosilene Da Silva
