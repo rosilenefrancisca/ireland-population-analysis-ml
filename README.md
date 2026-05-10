@@ -1,4 +1,4 @@
-# Ireland Census Analysis and Machine Learning
+# Ireland Census Analysis and Supervised Machine Learning Models
 
 ## Project Overview
 This project analyses Irish population census data from the Central Statistics Office (CSO) to identify demographic trends across census years, counties/cities, gender, age groups, and marital status.
