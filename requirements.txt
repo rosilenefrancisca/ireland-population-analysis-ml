@@ -4,4 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 scipy
-category_encoders
+category-encoders
