@@ -97,12 +97,12 @@ As a result, the primary value of this project lies in demographic exploration, 
 ## Repository Structure
 
 ```text
-├── README.md
-├── requirements.txt
-├── .gitignore
+├── .gitignore  
+├── README.md   
 ├── ireland_population_analysis_ml.ipynb
 ├── irelandpopulation.csv
 ├── newdata_df_dataset.csv
+├── requirements.txt
 
 ## Future Improvements
 
